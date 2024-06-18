@@ -46,7 +46,7 @@ Feel free to reach out to me via
     </a>
     <a href="https://join.skype.com/invite/esumHFCLf5WS" target="_blank">
         <img src="https://img.shields.io/badge/Skype-%230077B5.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype"/>
-    </a>=
+    </a>
 </div>
 
 Let's collaborate and build something amazing together!
